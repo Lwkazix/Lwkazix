@@ -1,5 +1,5 @@
 # Lucas-Perseguin-Leoncio
-<h1 align="left">Eai tudo bem? Eu Sou o Luiz Eduardo 🖐</h1>
+<h1 align="left">Eai tudo bem? Eu Sou o Lucas Leoncio 🖐</h1>
 
 <div align="center">
   <a href="https://github.com/Lwkazix">
@@ -22,16 +22,16 @@
 <div>
   <a href="https://www.instagram.com/luizbrgs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizeduardobrgs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-borges-52a1911b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-perseguin-leoncio-7a229527a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
   
-- 🔭 Sou formado em ánalise e desenvolvimento de sistemas.
+- 🔭 Sou formado em Inglês pelo CILT.
 
-- 💻 Atualmente sou Analista de testes junior, com experiência na área por meio de trabalhos voluntários que fiz.
+- 💻 Atualmente sou Aluno SENAI Taguatinga, formei-me em Desenvolvedor Java, fazendo atualmente Administrador de Banco de Dados..
 
-- 📫 Entre em contato comigo pelo meu email: luizeduardobrgs@gmail.com ou pelas redes sociais.
+- 📫 Entre em contato comigo pelo meu email: lucasleoncio986@gmail ou pelas redes sociais.
 
-- ⚡ Fluente em inglês.
+- ⚡ Avançado em inglês.
 
 - 🌱 Tenho conhecimentos em front-end com HTML, CSS, Javascript e bootstrap.
