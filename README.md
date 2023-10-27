@@ -9,6 +9,9 @@
 </div>
 
    ![Snake animation](https://github.com/Lwkazix/Lwkazix/blob/output/github-contribution-grid-snake.svg)
+
+   ![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lwkazix&repo=Lwkazix&theme=react)](https://github.com/Lwkazix/Lwkazix)
+   
 ## 🚀 Habilidades Técnicas: <br>
 <div>
   #Linguagens de Programação: HTML, CSS, Javascript, Java<br>
