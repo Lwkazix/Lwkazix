@@ -8,9 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwkazix&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-   ![Snake animation](https://github.com/Lwkazix/Lwkazix/blob/output/github-contribution-grid-snake.svg)
 
-   ![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lwkazix&repo=Lwkazix&theme=react)](https://github.com/Lwkazix/Lwkazix)
+  
    
 ## 🚀 Habilidades Técnicas: <br>
 <div>
@@ -20,6 +19,14 @@
    <br> <br>
   
 </div>
+
+
+
+
+
+
+
+
 
  
 <div style="display: inline_block"><br>
@@ -50,3 +57,10 @@
 - ⚡ Avançado em Inglês.
 
 - 🌱 Tenho conhecimentos em front-end com HTML, CSS, Javascript e bootstrap.
+
+
+
+
+
+
+![Snake animation](https://github.com/Lwkazix/Lwkazix/blob/output/github-contribution-grid-snake.svg)
