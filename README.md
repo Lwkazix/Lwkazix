@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lwkazix&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwkazix&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+   ![Snake animation](https://github.com/Lwkazix/Lwkazix/blob/output/github-contribution-grid-snake.svg)
 ## 🚀 Habilidades Técnicas: <br>
 <div>
   #Linguagens de Programação: HTML, CSS, Javascript, Java<br>
