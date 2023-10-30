@@ -8,6 +8,8 @@
   <a href="https://github.com/Lwkazix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lwkazix&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwkazix&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lwkazix&hide_title=true&langs_count=10&hide=G-code&hide_border=true&layout=donut-vertical&exclude_repo=babel,convert&background_color=#000000">
+    </picture>
 </div>
 
 
