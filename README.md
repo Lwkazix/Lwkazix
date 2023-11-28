@@ -62,4 +62,6 @@
 
 - 🌱 Tenho conhecimentos em front-end com HTML, CSS, Javascript e bootstrap.
 
+![Mario_Gameplay](https://user-images.githubusercontent.com/45173654/125710989-b4d9d759-c220-4e64-a38f-e86bd705e900.gif)
+
 
