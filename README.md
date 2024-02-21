@@ -36,7 +36,9 @@
     
 - 🔭 Sou formado em Inglês pelo CILT.
 
-- 💻 Atualmente sou Aluno SENAI Taguatinga, formei-me em Desenvolvedor Java, fazendo Administrador de Banco de Dados.
+- 💻 Atualmente sou Aluno SENAI Taguatinga, formei-me em Desenvolvedor Java, formei-me em Administrador de Banco de Dados.
+
+- ⚓ Atualmente me Graduando na Estacio, cursando Analise e Desenvolvimento de Sistemas.
 
 - 📫 Entre em contato comigo pelo meu email: lucasleoncio986@gmail ou pelas redes sociais.
 
