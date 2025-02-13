@@ -12,7 +12,7 @@
 </div>    
 ## 🚀 Habilidades Técnicas: <br>
 <div>
-  #Linguagens de Programação: HTML, CSS, Javascript, Java<br>
+  #Linguagens de Programação: HTML, CSS, Javascript, Java, Python<br>
   #Frameworks: Bootstrap ,Spring Boot <br>
   #Banco de Dados: MySQL <br>
    <br> <br>
@@ -22,6 +22,7 @@
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 <!--   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> -->
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
